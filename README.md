@@ -1,2 +1,2 @@
 # PowerShellScripts
-Collections of PowerShellScripts created by me.
+Collection of PowerShell Scripts created by me.
